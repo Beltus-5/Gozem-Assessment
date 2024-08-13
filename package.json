@@ -1,0 +1,17 @@
+{
+  "name": "gozem-automation",
+  "version": "1.0.0",
+  "description": "Gozem API Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beltus Tah",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.2"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.2"
+  }
+}
